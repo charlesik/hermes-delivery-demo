@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="26" viewBox="0 0 43 26">
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#05054B" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.44" d="M12.738 0L28.8 0.149 28.8 12.96 2.88 12.96" transform="translate(1 1)"/>
+        <path stroke="#05054B" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.44" d="M2.16 20.16h38.88v-9.017c0-10.238-12.304-8.071-12.304-8.071" transform="translate(1 1)"/>
+        <path stroke="#05054B" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.44" d="M33.84 3.6L33.84 11.52 41.04 11.52M19.44 3.96L4.32 3.96" transform="translate(1 1)"/>
+        <path fill="#F2F2F2" d="M14.4 19.8c0 2.187-1.773 3.96-3.96 3.96-2.187 0-3.96-1.773-3.96-3.96 0-2.187 1.773-3.96 3.96-3.96 2.187 0 3.96 1.773 3.96 3.96" transform="translate(1 1)"/>
+        <path stroke="#05054B" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.44" d="M14.4 19.8c0 2.187-1.773 3.96-3.96 3.96-2.187 0-3.96-1.773-3.96-3.96 0-2.187 1.773-3.96 3.96-3.96 2.187 0 3.96 1.773 3.96 3.96z" transform="translate(1 1)"/>
+        <path fill="#F2F2F2" d="M38.88 19.8c0 2.187-1.773 3.96-3.96 3.96-2.187 0-3.96-1.773-3.96-3.96 0-2.187 1.773-3.96 3.96-3.96 2.187 0 3.96 1.773 3.96 3.96" transform="translate(1 1)"/>
+        <path stroke="#05054B" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.44" d="M38.88 19.8c0 2.187-1.773 3.96-3.96 3.96-2.187 0-3.96-1.773-3.96-3.96 0-2.187 1.773-3.96 3.96-3.96 2.187 0 3.96 1.773 3.96 3.96zM19.44 8.28L0 8.28" transform="translate(1 1)"/>
+    </g>
+</svg>
